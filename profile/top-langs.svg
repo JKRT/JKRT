@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="209.32"
+          width="209.29"
           height="8"
           fill="#a270ba"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="209.32"
+          x="209.29"
           y="0"
-          width="32.73"
+          width="32.76"
           height="8"
           fill="#de1d31"
         />
@@ -239,14 +239,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#a270ba" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Julia 83.73%
+        Julia 83.72%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#de1d31" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Modelica 13.09%
+        Modelica 13.10%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
